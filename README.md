@@ -35,7 +35,7 @@ In a **new terminal** go to your bag folder (e.g. `~/Downloads`):
 cd ~/Downloads
 ```
 
-Download a sample rosbag (~3,3 GB):
+Download a sample rosbag (~3,3 GB) :
 
 ```r
 wget https://laesze-my.sharepoint.com/:u:/g/personal/herno_o365_sze_hu/EYl_ahy5pgBBhNHt5ZkiBikBoy_j_x95E96rDtTsxueB_A?download=1 -O leaf-2021-04-23-campus.bag
